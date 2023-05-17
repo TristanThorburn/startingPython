@@ -1,3 +1,5 @@
+# code along to: https://youtu.be/eWRfhZUzrAc
+
 import random
 
 def get_choices():
